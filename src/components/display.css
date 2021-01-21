@@ -1,0 +1,85 @@
+.display{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 91vh;
+    background-color: rgb(255, 255, 255);
+}
+
+.sidebox{
+    z-index: 1;
+    
+    flex: 20%;
+   position: relative;
+    display: block;
+    left: 0;
+    height: 100%;
+    background-color:rgb(93, 11, 11);
+}
+.icon{
+    color: rgb(236, 236, 236);
+    flex-direction: row-reverse;
+    justify-content: center;
+    font-size: 22.5px;
+}
+.sidelinksbox ul li{
+    justify-content: center;
+    padding: 10px;
+    list-style: none;
+}
+.sidelinksbox ul a{
+    font-size:1.1rem;
+    border-radius: 2px;
+    text-decoration: none;
+    color: rgb(236, 236, 236);
+}
+
+.maindisplay{
+    flex: 80%;
+    background-color: #bb9e68;
+    justify-content: space-between;
+    height: 91vh;
+}
+
+.sidelinks{
+    display: flex;
+    justify-content: start;
+   text-align: center;
+}
+.sidelinks:hover{
+   
+    border-radius: 4px;
+   background-color: rgb(68, 10, 10);
+}
+
+.title{
+    margin-left: 12.5px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    justify-content: center;
+}
+
+@media screen and (max-width: 680px) {
+    .sidebox{
+        position: sticky;
+        height: auto;
+
+        
+    }
+
+}
+
+
+
+.dashboard{
+    text-align: center;
+    padding:10px;
+    margin:8px 30px;
+    border-radius: 8px;
+    background-color: rgb(15, 226, 68);
+}
+
+@media screen and (max-width: 480px) {
+    
+}
