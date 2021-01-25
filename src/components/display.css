@@ -13,7 +13,7 @@
    position: relative;
     display: block;
     left: 0;
-    height: 100%;
+    
     background-color:rgb(93, 11, 11);
 }
 .icon{
@@ -38,7 +38,7 @@
     flex: 80%;
     background-color: #bb9e68;
     justify-content: space-between;
-    height: 91vh;
+    
 }
 
 .sidelinks{
