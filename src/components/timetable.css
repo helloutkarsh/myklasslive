@@ -1,5 +1,5 @@
 .heading{
-    background-color: rgb(55, 141, 112);
+    background-color: rgb(8 124 128 / 40%);
         justify-content: center;
         margin: 10px 30px;
         border-radius: 8px; 
@@ -34,7 +34,7 @@
 }
 
 .tag {
-    margin: 0px 0px 0px -240px;
+    margin: 0px 0px 0px -1px;
     background-color: rgb(255, 255, 255);
     display: flex;
     position: fixed;

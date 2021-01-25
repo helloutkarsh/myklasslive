@@ -7,8 +7,8 @@ function Contact (){
         <>
         <div className="heading"><h2>Contact</h2></div>
         <div className="box1">
-            <div className="one"></div>
-            <div className="two"></div>
+            <div className="content">10000000</div>
+            <div className="two">Lorem ipsum dolor sit amet.</div>
         </div>
         <div className="box2"></div>
         </>

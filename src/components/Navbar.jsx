@@ -22,7 +22,7 @@ function Navbar() {
                         <div className="tagline">
 
                             your true college mate</div>
-                        <div className="version"> v1.0 beta</div>
+                        <div className="version"> v1.1 beta</div>
                         <br />
                     </div>
                     <div className="clock navlinks">

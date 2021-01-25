@@ -32,7 +32,7 @@ function Home(){
         </div>
         <div className="thumbnail">
             <img src="https://ik.imagekit.io/783peqtlypv/thumbail/photo_2021-01-21_20-14-10_ny3h7pmpi.jpg" className="thumbimage"/>
-            <h4>“The secret of getting ahead is getting started.” <br/>– Mark Twain</h4>
+            <h4>"However difficult life may seem,<br/> there is always something you can do and succeed at."<br/>– Stephen Hawking</h4>
         </div>
         </div>
         </div>

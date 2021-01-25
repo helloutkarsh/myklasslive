@@ -8,13 +8,12 @@
 
 .sidebox{
     z-index: 1;
-    
     flex: 20%;
-   position: relative;
     display: block;
     left: 0;
     
-    background-color:rgb(93, 11, 11);
+    background-size: cover;
+    background: linear-gradient(189deg, rgb(7 112 117) 14%, rgb(8 103 94) 61%, rgb(8 90 45 / 75%) 85%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#46579c",endColorstr="#0d8c99",GradientType=1);
 }
 .icon{
     color: rgb(236, 236, 236);
@@ -36,7 +35,7 @@
 
 .maindisplay{
     flex: 80%;
-    background-color: #bb9e68;
+    background: linear-gradient(189deg, rgb(2 80 88) 14%, rgb(31 27 82) 61%, rgb(8 140 128) 85%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#46579c",endColorstr="#0d8c99",GradientType=1);
     justify-content: space-between;
     
 }
@@ -44,11 +43,15 @@
 .sidelinks{
     display: flex;
     justify-content: start;
-   text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(8 59 62 / 66%);
+    border-radius: 20px;
+    margin-top: 10px;
 }
 .sidelinks:hover{
    
-    border-radius: 4px;
+    
    background-color: rgb(68, 10, 10);
 }
 

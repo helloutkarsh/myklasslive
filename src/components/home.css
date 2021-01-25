@@ -52,7 +52,7 @@
     box-shadow: 0px 0px 2px 1px;
     text-align: center;
     color: #666;
-    margin: 20px;
+    margin: 10px;
     border-radius: 5px;
     background-attachment: fixed;
     background-position: center;
@@ -67,13 +67,12 @@
 }
 .thumbimage{
     display: inline-block;
-    width: 320px;
-    margin: 24px;
+    width: 220px;
+    margin: 14px;
 }
 
 .background_image{
     background-image: url("https://ik.imagekit.io/783peqtlypv/thumbail/photo_2021-01-21_20-14-06_KXXMAFTyS.jpg");
-    background-attachment:fixed;
     background-repeat: no-repeat;
     background-size:cover;
     opacity: 0.8;
