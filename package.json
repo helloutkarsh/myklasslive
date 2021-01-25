@@ -8,6 +8,7 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
+    "imagekitio-react": "^1.0.9",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
     "react-digital-clock": "^0.1.2",
@@ -48,5 +49,17 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PYURITI/myklasslive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PYURITI/myklasslive/issues"
   }
 }
