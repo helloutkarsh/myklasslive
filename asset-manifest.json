@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myklasslive/static/css/main.a4dd766f.chunk.css",
+    "main.js": "/myklasslive/static/js/main.de26c188.chunk.js",
+    "main.js.map": "/myklasslive/static/js/main.de26c188.chunk.js.map",
+    "runtime-main.js": "/myklasslive/static/js/runtime-main.ad3fcc01.js",
+    "runtime-main.js.map": "/myklasslive/static/js/runtime-main.ad3fcc01.js.map",
+    "static/js/2.f45a6b51.chunk.js": "/myklasslive/static/js/2.f45a6b51.chunk.js",
+    "static/js/2.f45a6b51.chunk.js.map": "/myklasslive/static/js/2.f45a6b51.chunk.js.map",
+    "index.html": "/myklasslive/index.html",
+    "static/css/main.a4dd766f.chunk.css.map": "/myklasslive/static/css/main.a4dd766f.chunk.css.map",
+    "static/js/2.f45a6b51.chunk.js.LICENSE.txt": "/myklasslive/static/js/2.f45a6b51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad3fcc01.js",
+    "static/js/2.f45a6b51.chunk.js",
+    "static/css/main.a4dd766f.chunk.css",
+    "static/js/main.de26c188.chunk.js"
+  ]
+}
